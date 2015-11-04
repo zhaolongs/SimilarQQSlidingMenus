@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SimilarQQSlidingMenus.iml" filepath="$PROJECT_DIR$/SimilarQQSlidingMenus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/similarqqslidingmenu/similarqqslidingmenu.iml" filepath="$PROJECT_DIR$/similarqqslidingmenu/similarqqslidingmenu.iml" />
+    </modules>
+  </component>
+</project>
