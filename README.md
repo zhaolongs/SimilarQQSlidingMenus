@@ -15,11 +15,6 @@ this is example:
 xml:
 
 <com.administrator.similarqqslidingmenu.DragLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-     android:layout_width="match_parent"
-      android:layout_height="match_parent"
-      android:background="#508040BF"
        android:id="@+id/dl" >
 
     <LinearLayout
