@@ -6,6 +6,10 @@ Use the class library, can achieve the effect of the side menu like QQ
 
 
 
+
+Use the class library, can achieve the effect of the side menu like QQ
+
+
 this is example:
 
 xml:
