@@ -14,7 +14,6 @@ this is example:
 
 xml:
 
-
 <com.administrator.similarqqslidingmenu.DragLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
